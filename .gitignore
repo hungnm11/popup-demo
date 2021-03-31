@@ -3,6 +3,9 @@
 # dependencies
 /node_modules
 /.pnp
+/.firebase
+.firebaserc
+firebase.json
 .pnp.js
 
 # testing
